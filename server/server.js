@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-let chirpArray = ['hey yall its ya boi', `today we've got a  special treat for you`, 'dj turn it up', 'insert horrible music here', 'check out my soundcloud for more smash hits']
+// let chirpArray = ['hey yall its ya boi', `today we've got a  special treat for you`, 'dj turn it up', 'insert horrible music here', 'check out my soundcloud for more smash hits']
 
 let dataPath = path.join(__dirname, '../chirps.json')
 

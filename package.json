@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "i": "^0.3.6",
+    "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }
 }
